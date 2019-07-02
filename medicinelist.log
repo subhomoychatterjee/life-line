@@ -1,0 +1,14 @@
+Line 152: Class MSDataGridLib.DataGrid of control DataGrid1 was not a loaded control class.
+Line 158: The property name _ExtentX in DataGrid1 is invalid.
+Line 159: The property name _ExtentY in DataGrid1 is invalid.
+Line 160: The property name _Version in DataGrid1 is invalid.
+Line 161: The property name AllowUpdate in DataGrid1 is invalid.
+Line 163: The property name HeadLines in DataGrid1 is invalid.
+Line 164: The property name RowHeight in DataGrid1 is invalid.
+Line 165: The property name RowDividerStyle in DataGrid1 is invalid.
+Line 174: The property name HeadFont in DataGrid1 is invalid.
+Line 184: The property name ColumnCount in DataGrid1 is invalid.
+Line 197: The property name Column00 in DataGrid1 is invalid.
+Line 210: The property name Column01 in DataGrid1 is invalid.
+Line 211: The property name SplitCount in DataGrid1 is invalid.
+Line 217: The property name Split0 in DataGrid1 is invalid.
